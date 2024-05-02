@@ -10,7 +10,6 @@
         consideration of benefits the Licensor receives from making the Licensed Material available under these terms
         and conditions.
     </p>
-
     <h3 id="s1">
         Section 1 – Definitions.
     </h3>
@@ -118,7 +117,6 @@
             has a corresponding meaning.
         </li>
     </ol>
-
     <h3 id="s2">
         Section 2 – Scope.
     </h3>
@@ -238,7 +236,6 @@
             </ol>
         </li>
     </ol>
-
     <h3 id="s3">
         Section 3 – License Conditions.
     </h3>
@@ -312,7 +309,6 @@
             </ol>
         </li>
     </ol>
-
     <h3 id="s4">
         Section 4 – Sui Generis Database Rights.
     </h3>
@@ -349,7 +345,6 @@
         supplements and does not replace Your obligations under this Public License where the Licensed Rights include
         other Copyright and Similar Rights.
     </p>
-
     <h3 id="s5">
         Section 5 – Disclaimer of Warranties and Limitation of Liability.
     </h3>
@@ -380,7 +375,6 @@
             that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
         </li>
     </ol>
-
     <h3 id="s6">
         Section 6 – Term and Termination.
     </h3>
@@ -440,7 +434,6 @@
             survive termination of this Public License.
         </li>
     </ol>
-
     <h3 id="s7">
         Section 7 – Other Terms and Conditions.
     </h3>
@@ -454,7 +447,6 @@
             separate from and independent of the terms and conditions of this Public License.
         </li>
     </ol>
-
     <h3 id="s8">
         Section 8 – Interpretation.
     </h3>
