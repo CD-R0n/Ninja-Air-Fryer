@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="color-scheme" content="light dark">
     <title>Het ultieme airfryer handboek</title>
+    <style>
+        .em {
+            height: 1.5em;
+        }
+    </style>
 </head>
 
 <?php
@@ -204,6 +209,23 @@ echo "</table>";
         <option value="10">10</option>
     </datalist>
     <script src="script.js" defer></script>
+    <footer>
+        <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+            <a property="dct:title" rel="cc:attributionURL" href="https://github.com/CD-R0n/Ninja-Air-Fryer">
+                Ninja Air Fryer
+            </a>
+            by
+            <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/CD-R0n">
+                Ron Sedee
+            </a>
+            is licensed under
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank"
+                rel="license noopener noreferrer" style="display:inline-block;">
+                CC BY-NC 4.0 
+                <img class="em" src="/airfryer/images/cc.svg" alt=""><img class="em" src="/airfryer/images/by.svg" alt=""><img class="em" src="/airfryer/images/nc.svg" alt="">
+            </a>
+        </p>
+    </footer>
 </body>
 
 </html>

@@ -28,14 +28,13 @@ try {
     // use exec() because no results are returned
     $conn->exec($sql);
 } catch (PDOException $e) {
+    header( "refresh:7;url=index.php" );
     echo $sql . "<br>" . $e->getMessage();
     $conn = null;
-    sleep(7);
-    echo "<script>window.location.href='index.php';</script>";
     exit;
 }
 $conn = null;
-echo "<script>window.location.href='index.php';</script>";
+header("location: index.php");
 exit;
 
 ?>
